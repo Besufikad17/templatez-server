@@ -10,7 +10,7 @@
       "type": "Frontend",
       "url": "https://github.com/Besufikad17/react-vite-template/releases/download/%23template/react-vite-template.zip",
       "github": "https://github.com/Besufikad17/react-vite-template",
-      "autour": "Besufikad17",
+      "author": "Besufikad17",
       "stars": 5
     },
     {
@@ -23,7 +23,7 @@
       "type": "Backend",
       "url": "https://github.com/Besufikad17/express-ts-mongo-template/releases/download/%23template/express-ts-mongo.zip",
       "github": "https://github.com/Besufikad17/express-ts-mongo-template",
-      "autour": "Besufikad17",
+      "author": "Besufikad17",
       "stars": 3
     },
     {
@@ -36,7 +36,7 @@
       "type": "Backend",
       "url": "https://github.com/Besufikad17/express-js-mongo-template/releases/download/%23template/express-js-mongo.zip",
       "github": "https://github.com/Besufikad17/express-js-mongo-template",
-      "autour": "Besufikad17",
+      "author": "Besufikad17",
       "stars": 3
     }
   ]
